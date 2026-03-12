@@ -1,0 +1,16 @@
+C:\Users\Nick\source\repos\task2\bin\Debug\net8.0-windows\task2.exe
+C:\Users\Nick\source\repos\task2\bin\Debug\net8.0-windows\task2.deps.json
+C:\Users\Nick\source\repos\task2\bin\Debug\net8.0-windows\task2.runtimeconfig.json
+C:\Users\Nick\source\repos\task2\bin\Debug\net8.0-windows\task2.dll
+C:\Users\Nick\source\repos\task2\bin\Debug\net8.0-windows\task2.pdb
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.Form1.resources
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.AssemblyInfo.cs
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.dll
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\refint\task2.dll
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.pdb
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\task2.genruntimeconfig.cache
+C:\Users\Nick\source\repos\task2\obj\Debug\net8.0-windows\ref\task2.dll

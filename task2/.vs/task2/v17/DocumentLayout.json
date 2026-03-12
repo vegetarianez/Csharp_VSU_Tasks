@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\source\\repos\\task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|c:\\users\\nick\\source\\repos\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|C:\\Users\\Nick\\source\\repos\\task2\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|C:\\Users\\Nick\\source\\repos\\task2\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|C:\\Users\\Nick\\source\\repos\\task2\\flyingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:flyingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|C:\\Users\\Nick\\source\\repos\\task2\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|c:\\users\\nick\\source\\repos\\task2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A78E265-ED5B-4FC8-A38E-BCC74AD0D5F5}|task2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:43:15.493Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\ViewModel.cs",
+              "RelativeToolTip": "ViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:30:12.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\Plane.cs",
+              "RelativeDocumentMoniker": "Plane.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\Plane.cs",
+              "RelativeToolTip": "Plane.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:19:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\Helicopter.cs",
+              "RelativeDocumentMoniker": "Helicopter.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\Helicopter.cs",
+              "RelativeToolTip": "Helicopter.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:19:35.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\FlyingMachine.cs",
+              "RelativeDocumentMoniker": "FlyingMachine.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\FlyingMachine.cs",
+              "RelativeToolTip": "FlyingMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T21:19:21.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T22:35:22.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
