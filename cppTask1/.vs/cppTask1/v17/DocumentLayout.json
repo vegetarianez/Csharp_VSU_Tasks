@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\source\\repos\\cppTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57BB81C8-7278-46DC-A0C1-952C43B55E03}|cppTask1.vcxproj|C:\\Users\\Nick\\source\\repos\\cppTask1\\cppTask1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57BB81C8-7278-46DC-A0C1-952C43B55E03}|cppTask1.vcxproj|solutionrelative:cppTask1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cppTask1.cpp",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\cppTask1\\cppTask1.cpp",
+              "RelativeDocumentMoniker": "cppTask1.cpp",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\cppTask1\\cppTask1.cpp",
+              "RelativeToolTip": "cppTask1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T13:17:25.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
