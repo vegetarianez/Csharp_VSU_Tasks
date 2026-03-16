@@ -1,0 +1,6 @@
+﻿  cppTask2.cpp
+C:\Users\Nick\source\repos\cppTask2\cppTask2.cpp(171,31): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nick\source\repos\cppTask2\cppTask2.cpp(270,85): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nick\source\repos\cppTask2\cppTask2.cpp(276,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Nick\source\repos\cppTask2\cppTask2.cpp(325,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  cppTask2.vcxproj -> C:\Users\Nick\source\repos\cppTask2\x64\Debug\cppTask2.exe
