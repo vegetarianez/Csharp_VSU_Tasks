@@ -1,0 +1,12 @@
+C:\Users\Nick\source\repos\FlyingMachineLib\bin\Debug\net8.0\FlyingMachineLib.deps.json
+C:\Users\Nick\source\repos\FlyingMachineLib\bin\Debug\net8.0\FlyingMachineLib.dll
+C:\Users\Nick\source\repos\FlyingMachineLib\bin\Debug\net8.0\FlyingMachineLib.pdb
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.AssemblyInfo.cs
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.sourcelink.json
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.dll
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\refint\FlyingMachineLib.dll
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\FlyingMachineLib.pdb
+C:\Users\Nick\source\repos\FlyingMachineLib\obj\Debug\net8.0\ref\FlyingMachineLib.dll

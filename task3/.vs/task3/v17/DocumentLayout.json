@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nick\\source\\repos\\task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|c:\\users\\nick\\source\\repos\\task3\\storemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:storemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|C:\\Users\\Nick\\source\\repos\\task3\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|C:\\Users\\Nick\\source\\repos\\task3\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|C:\\Users\\Nick\\source\\repos\\task3\\storeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:storeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|C:\\Users\\Nick\\source\\repos\\task3\\autodeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:autodeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|C:\\Users\\Nick\\source\\repos\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|c:\\users\\nick\\source\\repos\\task3\\simulationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7B4DF16-07F6-4C36-9DBF-EE0F74D015AF}|task3.csproj|solutionrelative:simulationcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\StoreModel.cs",
+              "RelativeDocumentMoniker": "StoreModel.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\StoreModel.cs",
+              "RelativeToolTip": "StoreModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T07:55:55.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimulationControl.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\SimulationControl.cs",
+              "RelativeDocumentMoniker": "SimulationControl.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\SimulationControl.cs",
+              "RelativeToolTip": "SimulationControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:28:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:27:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoDeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\AutoDeliveryService.cs",
+              "RelativeDocumentMoniker": "AutoDeliveryService.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\AutoDeliveryService.cs",
+              "RelativeToolTip": "AutoDeliveryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:27:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:23:59.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\StoreViewModel.cs",
+              "RelativeDocumentMoniker": "StoreViewModel.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\StoreViewModel.cs",
+              "RelativeToolTip": "StoreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:23:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nick\\source\\repos\\task3\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "CustomerModel.cs",
+              "ToolTip": "C:\\Users\\Nick\\source\\repos\\task3\\CustomerModel.cs",
+              "RelativeToolTip": "CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T13:26:56.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
